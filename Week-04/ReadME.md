@@ -1,4 +1,4 @@
-# SystemVerilog Digital Design & Verification
+# Processor Units
 
 A collection of parameterized digital design modules implemented in SystemVerilog with comprehensive UVM-style testbenches featuring functional coverage and automated verification.
 
