@@ -170,7 +170,7 @@ Overall Coverage: 98.50%
 ## 📝 File Structure
 
 ```
-Processor Units/
+Week 04/
 ├── src/
 │   ├── ALU.sv              # ALU RTL design
 │   └── FIFO.sv             # FIFO RTL design
@@ -183,4 +183,3 @@ Processor Units/
 
 ---
 
-**Note:** These designs are suitable for FPGA/ASIC implementation after synthesis and timing analysis.
